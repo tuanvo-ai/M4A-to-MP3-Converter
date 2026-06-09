@@ -1,0 +1,5 @@
+{
+  "name": "M4A to MP3 Converter",
+  "description": "A web-based tool to batch convert M4A files to MP3 using FFmpeg.wasm. Features multi-threading, progress bars, and prevents overwriting existing files.",
+  "requestFramePermissions": []
+}
